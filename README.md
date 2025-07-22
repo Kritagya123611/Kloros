@@ -1,4 +1,4 @@
-# ProofOfImpact
+# Kloros
 
 ## Overview
 ProofOfImpact is a decentralized application designed to facilitate claims, audits, and voting processes through a multi-faceted architecture that includes a backend built with Express.js, a frontend developed in React, smart contracts written in Solidity, and an optional AI agent for enhanced functionality.
