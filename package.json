@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-oauth/google": "^0.12.2",
+    "@types/jwt-decode": "^2.2.1",
+    "jwt-decode": "^4.0.0"
+  }
+}
