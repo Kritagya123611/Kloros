@@ -22,11 +22,11 @@ export function Dashboard() {
             <header className="bg-gray-900 shadow-md">
                 <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
                 <div className="text-3xl font-semibold text-blue-400">Kloros</div>
-                <nav className="flex items-center gap-x-12 hidden md:flex">
+                <nav className="flex items-center gap-x-7 hidden md:flex">
                     <a href="#" className="hover:text-blue-400 transition">Home</a>
-                    <a href="#" className="hover:text-blue-400 transition">Create Project</a>
                     <a href="#" className="hover:text-blue-400 transition">Mint NFT</a>
-                    <button className="inline-flex hover:text-blue-400 transition bg-blue-500 px-5 py-2 rounded-md">Connect Wallet</button>
+                    <button className="inline-flex transition bg-blue-500 px-5 py-2 rounded-md">Create a Project</button>
+                    <button className="inline-flex transition bg-blue-500 px-5 py-2 rounded-md">Connect Wallet</button>
                 </nav>
                 </div>
             </header>
